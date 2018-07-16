@@ -1,174 +1,164 @@
-
 body {
-   margin: 0;
+  margin: 0;
 }
 
 h1 {
-   color: #CC454B;
-   margin: 6vh auto;
-   width: 80vw;
-   font-family: 'Fjalla One', cursive;
-   font-size: 20px;
-   letter-spacing: 1.5px;
+  color: #CC454B;
+  margin: 6vh auto;
+  width: 80vw;
+  font-family: "Fjalla One", cursive;
+  font-size: 20px;
+  letter-spacing: 1.5px;
 }
-
 
 .container {
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-      height: 87vh;
-      background: url("../img/rams_still7 3-3-pink-half-more.png");
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: bottom;
-      background-color: #6492A1;
-      overflow: scroll;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 87vh;
+  background: url("../img/rams_still7 3-3-pink-half-more.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-color: #6492A1;
+  overflow: scroll;
 }
 
-.topmenu{
-   position: fixed;
-   right: 40px;
-   top: 35px;
+.topmenu {
+  position: fixed;
+  right: 40px;
+  top: 35px;
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-li{
-   display: inline-block;
+li {
+  display: inline-block;
 }
 
 li a {
-   margin: 10px auto;
-   text-align: right;
-   float: left;
-   text-decoration: none;
-   color: #CC454B;
-   padding: 10px 1px;
-   width:50px;
-   text-transform: lowercase;
-   font-family: 'Open Sans', sans-serif;
-   font-size: 14px;
+  margin: 10px auto;
+  text-align: right;
+  float: left;
+  text-decoration: none;
+  color: #CC454B;
+  padding: 10px 1px;
+  width: 50px;
+  text-transform: lowercase;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
 }
 
 .rel {
-   position: relative;
-   width: 70vw;
-   margin: 0 auto;
-   height: 100vh;
+  position: relative;
+  width: 70vw;
+  margin: 0 auto;
+  height: 100vh;
 }
 
 li a:hover {
-    color: black;
+  color: black;
 }
 
 h2 {
-   font-size: 225px; color: white;
-   margin: 1px;
-   font-family: 'Chonburi', cursive;
-   opacity: 0.7;
+  font-size: 225px;
+  color: white;
+  margin: 1px;
+  font-family: "Chonburi", cursive;
+  opacity: 0.7;
 }
 
 p {
-   font-size: 15px;
-   color: white;
-   font-family: 'Roboto', sans-serif;
-   text-align: left;
-   line-height: 130%;
+  font-size: 15px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  text-align: left;
+  line-height: 130%;
 }
 
 h3 {
-   font-size: 25px;
-   color: white;
-   font-family: 'Oswald', sans-serif;
-   text-align: left;
-   line-height: 5%;
+  font-size: 25px;
+  color: white;
+  font-family: "Oswald", sans-serif;
+  text-align: left;
+  line-height: 5%;
 }
 
-.number-1{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
-
+.number-1 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
 
-.number-2{
-   position: absolute;
-   left:50px;
-   width: 335px;
-   height: 300px;
+.number-2 {
+  position: absolute;
+  left: 50px;
+  width: 335px;
+  height: 300px;
 }
 
-.number-3{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
+.number-3 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
 
-
-.number-4{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
+.number-4 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
 
-
-.number-5{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
+.number-5 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
 
-.number-6{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
+.number-6 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
 
-
-.number-7{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
+.number-7 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
 
-
-
-.number-8{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
+.number-8 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
 
-
-.number-9{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
+.number-9 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
 
-.number-10{
-   position: absolute;
-   left:50px;
-   width: 325px;
-   height: 300px;
+.number-10 {
+  position: absolute;
+  left: 50px;
+  width: 325px;
+  height: 300px;
 }
-
 
 span {
-   color : white;
-   font-weight: bold;
-
+  color: white;
+  font-weight: bold;
 }

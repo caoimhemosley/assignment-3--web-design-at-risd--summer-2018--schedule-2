@@ -67,10 +67,10 @@ li a:hover {
 }
 
 h2 {
-   font-size: 275px; color: #CC454B;
+   font-size: 225px; color: #CC454B;
    margin: 1px;
    font-family: 'Chonburi', cursive;
-   opacity: 0.6;
+   opacity: 0.7;
 }
 
 p {
@@ -78,16 +78,15 @@ p {
    color: white;
    font-family: 'Roboto', sans-serif;
    text-align: left;
-   line-height: 140%;
-
+   line-height: 130%;
 }
 
 h3 {
    font-size: 25px;
    color: white;
-   font-family: 'Open Sans', sans-serif;
+   font-family: 'Roboto', sans-serif;
    text-align: left;
-   line-height: 20%;
+   line-height: 5%;
 }
 
 .number-1{
